@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5985daa1-957a-4d9c-9ecf-8657c4eba053" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/2/02a22cd18723bfd258577d08ebe6169087d42d57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/b/0bbe1b773910c20295eb70021f1808aed1b09627" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/1/0/1065e94a336c3e24124fd022ce9f294fa4cd8acf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/2/22703198ca9ba34e00da4bc003e13867a19a7274" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/3/23ba19441b8b6e0425d5f89381b26be9d8664338" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/5/25c69973088997952a1204ca3599c4159f1a1dfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/e/2e84cd87937df15a9e024ada454a292408579954" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/3/2/322f6b93415c1d9ff7679db8fc5820f3c7c6d439" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/3/b/3b63cfc32bb7df9d33586b90f410f492305143b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/3/c/3cb74e3a6cf8c221f57c92a613471833f3177b3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/3/f/3faa746267475c31f16b88f1b52c85a11ebac00f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/1/4128e4e20e809d4a0cf1fc37de34248866fa4303" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/5/45467e32214ffc96a3bdaa21d2d3140025f55f2c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/5/454cfccf062875533ee8561804460aed069e2d08" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/9/4947624365e63eb3954619175712b712748c408d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/9/497c690b48e34a414a80789cddaf98f82f59fea4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/c/4cf461c7ca12374cbea5c518bb4a4406344625c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/3/5352bfd20c33529d111d60166fdaf8f37179bbe2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/9/5983fc87d25c5a4194b708e12d4f7a5d2fe1c001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/0/600ae286ae0c8fec90265cc0f9a42c8fa3b116d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/8/683b99121c2bb67086b61b568ba111e03b6306f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/e/6e3ec46cf755269c911f4627cf234e4c4b5a6b93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/2/72688f2e5e5c930bd1941c564b2a488e35a9cd83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/3/73d886e660a769d9a52c9b45d1d052000fe50541" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/c/7c5ad8ea3682abc1e44587c8e342f6032c50d9c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/2/822be0fcdc0eeca83ca6d816b9b58a93058d9e17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/9/892f50adbbbe360d2b410d58f218d414dd4b3a11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/e/8ed8848938328256e15ddc9ff26a7513f550accc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/5/95871e1a4eadf2aeb1f0937175278358abe8d631" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/5/95e22d293715f04518ccd9d455ce9ea227e970c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/6/96e66d78188c5032d9a206a2054bb45c415ff4b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/0/a092334470ed1c0405cd978f4c25a460a451d102" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/5/a598b32eea18fbe08dd70adaa1b543831cd8564d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/5/a5fd21aad05ede8906db92758106fc7055e25b34" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/b/3/b341219a88312940041f4f9007f7fb3d61253179" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/b/d/bdb00584f9a6f4dc4f646b19ec6c6d56c6b547f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/b/e/be6f7b736a30508b055988f1f7e85a9a6fb2ff31" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/1/c1d71384be4caf1fbcf3c6b2fed11b13b0e8b3f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/3/c3b8f2735c90d6b61294d6ce48e1d2ab662391bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/e/cec197f833bd7675233ec75a1751159e7df0c97c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/c/dc4878ac2fef8d1d96b95a3e5328cda6ee188438" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/e/3/e32b2292a1fc315b2f2046d6f71c2d4a12d66d3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/3/f3dacd6a3147b53609b45836b1b5cbefd398904f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/6/f6e8a9be620164de80218f9a337299915f6956cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/a/faed0ea94c74c1b4cbaf5ad96d7704a13457fcbe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ik/ik.eml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra_stopword.dic" beforeDir="false" afterPath="$PROJECT_DIR$/extra_stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/ik/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/cfg/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/cfg/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/cfg/DefaultConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/cfg/DefaultConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/AnalyzeContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/AnalyzeContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/CJKSegmenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/CJKSegmenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/CN_QuantifierSegmenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/CN_QuantifierSegmenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/CharacterUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/CharacterUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/IKArbitrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/IKArbitrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/IKSegmenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/IKSegmenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/ISegmenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/ISegmenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/LetterSegmenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/LetterSegmenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/LexemePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/LexemePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/QuickSortSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/core/QuickSortSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/DictSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/DictSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/Hit.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/Hit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/Term.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/Term.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/main2012.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/main2012.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/quantifier.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/dic/quantifier.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/model/analyzer/Lexeme.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/java/org/wltea/analyzer/model/analyzer/Lexeme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/resources/IKAnalyzer.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/resources/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/resources/dic/black.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/resources/dic/black.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/resources/dic/main.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/resources/dic/main.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/main/resources/dic/stopword.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/main/resources/dic/stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/src/test/java/IkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ik/src/test/java/IkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/IKAnalyzer.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/META-INF/maven/my-ik/ik/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/META-INF/maven/my-ik/ik/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/dic/black.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/dic/black.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/dic/main.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/dic/main.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/dic/stopword.dic" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/dic/stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/cfg/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/cfg/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/cfg/DefaultConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/cfg/DefaultConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/AnalyzeContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/AnalyzeContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/CJKSegmenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/CJKSegmenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/CN_QuantifierSegmenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/CN_QuantifierSegmenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/CharacterUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/CharacterUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/IKArbitrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/IKArbitrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/IKSegmenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/IKSegmenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/ISegmenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/ISegmenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/LetterSegmenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/LetterSegmenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/LexemePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/LexemePath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/QuickSortSet$Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/QuickSortSet$Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/QuickSortSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/core/QuickSortSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/DictSegment.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/DictSegment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/Dictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/Hit.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/Hit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/Term.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/Term.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/main2012.dic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/dic/quantifier.dic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/model/analyzer/Lexeme.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/classes/org/wltea/analyzer/model/analyzer/Lexeme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik/target/test-classes/IkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ik/target/test-classes/IkTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GkeZCncCqNOggFu35hOtlDSYtk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Turing/_20_中文分詞/ik/src/main/resources/dic",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.14941406",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Turing\_20_中文分詞\ik\src\main\resources\dic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.wltea.analyzer.core" />
+      <recent name="org.wltea.analyzer.dic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkTest" />
+      <module name="ik" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5985daa1-957a-4d9c-9ecf-8657c4eba053" name="Changes" comment="" />
+      <created>1666937069959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666937069959</updated>
+      <workItem from="1666937071169" duration="4558000" />
+      <workItem from="1666942212572" duration="2900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

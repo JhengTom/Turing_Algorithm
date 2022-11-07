@@ -1,0 +1,17 @@
+
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(à«Àÿÿÿÿÿ
+u
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿èûüÿÿÿÿ
+u
+java:S1210Ğ"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(û†½úÿÿÿÿ
+h
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿºİò
+>
+java:S2129y"#Remove this "Character" constructor(™”ÂÀùÿÿÿÿ
+?
+java:S2129Å"#Remove this "Character" constructor(ıÔêùşÿÿÿÿ
+P
+java:S2168¥"9Remove this dangerous instance of double-checked locking.(Û­¨
+P
+java:S2168´"9Remove this dangerous instance of double-checked locking.(Û­¨

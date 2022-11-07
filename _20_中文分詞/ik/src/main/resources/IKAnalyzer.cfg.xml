@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>IK Analyzer 擴展配置</comment>
+	<!--使用者可以在這裡配置自己的擴展字典 -->
+
+	<entry key="ext_dict">dic/main.dic;dic/black.dic</entry>
+
+
+	<!--使用者可以在這裡配置自己的擴展停止詞字典 -->
+	<entry key="ext_stopwords">dic/stopword.dic;</entry>
+
+</properties>
+
